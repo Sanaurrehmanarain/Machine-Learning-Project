@@ -9,11 +9,11 @@ This project progresses from foundational Exploratory Data Analysis (EDA) to adv
 ## Key Highlights & Visuals
 
 * **Customer Segmentation (K-Means):** Identified 6 distinct buyer personas for targeted marketing.
-    * *[Insert your 3D K-Means Scatter Plot image here]*
+    * *![Plot 5](outputs/plot5.png)*
 * **Predictive Maintenance/Energy (ANN):** Built deep neural networks to predict HVAC cooling loads, implementing Early Stopping and Dropout to prevent overfitting.
-    * *[Insert your Training vs Validation Loss plot here]*
+    * *![Plot 5](outputs/plot6.png)*
 * **Computer Vision (CNN):** Developed image classification models with Batch Normalization and Data Augmentation to categorize apparel.
-    * *[Insert your Confusion Matrix image here]*
+    * *![Plot 5](outputs/plot7.png)*
 * **Natural Language Processing (Transformers):** Fine-tuned DistilBERT to classify movie review sentiment, comparing its deep linguistic context against a traditional TF-IDF baseline.
 
 ## Repository Structure
